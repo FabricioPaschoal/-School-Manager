@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1508808299 source:c:\users\fabricio paschoal\documents\codeblocks\trabalhofinalestrutura\trabfinaled.c
+	<stdio.h>
+	<stdlib.h>
+	"trabFinalED.h"
+
+1508812098 c:\users\fabricio paschoal\documents\codeblocks\trabalhofinalestrutura\trabfinaled.h
+
+1508812098 source:c:\users\fabricio paschoal\documents\codeblocks\trabalhofinalestrutura\main.c
+	"trabFinalED.h"
+	<locale.h>
+
+1511989415 source:c:\users\admin\desktop\sistemas de informação\estrutura de dados\trabalho final\trabalhofinalestrutura\main.c
+	"trabFinalED.h"
+	<locale.h>
+	<stdio.h>
+
+1511989415 c:\users\admin\desktop\sistemas de informação\estrutura de dados\trabalho final\trabalhofinalestrutura\trabfinaled.h
+
+1511990243 source:c:\users\admin\desktop\sistemas de informação\estrutura de dados\trabalho final\trabalhofinalestrutura\trabfinaled.c
+	<stdio.h>
+	<stdlib.h>
+	"trabFinalED.h"
+
+1511040151 source:c:\users\fabricio paschoal\documents\codeblocks\trabalhofinalestrutura\trabalhofinalestrutura\main.c
+	"trabFinalED.h"
+	<locale.h>
+	<stdio.h>
+
+1511040139 c:\users\fabricio paschoal\documents\codeblocks\trabalhofinalestrutura\trabalhofinalestrutura\trabfinaled.h
+
+1511040421 source:c:\users\fabricio paschoal\documents\codeblocks\trabalhofinalestrutura\trabalhofinalestrutura\trabfinaled.c
+	<stdio.h>
+	<stdlib.h>
+	"trabFinalED.h"
+
+1511925400 source:c:\users\fabricio paschoal\desktop\faculdade\estrutura\trabalhofinalestrutura\main.c
+	"trabFinalED.h"
+	<locale.h>
+	<stdio.h>
+
+1511924956 c:\users\fabricio paschoal\desktop\faculdade\estrutura\trabalhofinalestrutura\trabfinaled.h
+
+1511924735 source:c:\users\fabricio paschoal\desktop\faculdade\estrutura\trabalhofinalestrutura\trabfinaled.c
+	<stdio.h>
+	<stdlib.h>
+	"trabFinalED.h"
+
+1512084656 source:c:\users\fabricio paschoal\desktop\trabalhofinalestrutura\trabalhofinalestrutura\main.c
+	"trabFinalED.h"
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+
+1511989415 c:\users\fabricio paschoal\desktop\trabalhofinalestrutura\trabalhofinalestrutura\trabfinaled.h
+
+1512084902 source:c:\users\fabricio paschoal\desktop\trabalhofinalestrutura\trabalhofinalestrutura\trabfinaled.c
+	<stdio.h>
+	<stdlib.h>
+	"trabFinalED.h"
+
+1512081056 source:c:\users\fabricio paschoal\desktop\faculdade\2°ano\trabalhofinalestrutura\trabalhofinalestrutura\main.c
+	"trabFinalED.h"
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+
+1511985815 c:\users\fabricio paschoal\desktop\faculdade\2°ano\trabalhofinalestrutura\trabalhofinalestrutura\trabfinaled.h
+
+1512081302 source:c:\users\fabricio paschoal\desktop\faculdade\2°ano\trabalhofinalestrutura\trabalhofinalestrutura\trabfinaled.c
+	<stdio.h>
+	<stdlib.h>
+	"trabFinalED.h"
+
+1512081056 source:c:\users\fabricio paschoal\desktop\fabricio\faculdade\2°ano\trabalhofinalestrutura\trabalhofinalestrutura\main.c
+	"trabFinalED.h"
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+
+1511985815 c:\users\fabricio paschoal\desktop\fabricio\faculdade\2°ano\trabalhofinalestrutura\trabalhofinalestrutura\trabfinaled.h
+
+1512081302 source:c:\users\fabricio paschoal\desktop\fabricio\faculdade\2°ano\trabalhofinalestrutura\trabalhofinalestrutura\trabfinaled.c
+	<stdio.h>
+	<stdlib.h>
+	"trabFinalED.h"
+
